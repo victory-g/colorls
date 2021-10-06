@@ -1,0 +1,2 @@
+# colorls
+colorls's config
